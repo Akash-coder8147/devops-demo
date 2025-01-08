@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 this is a change from the main branch
+=======
+this is my initial commit
+this is a change from my main bracnch
+>>>>>>> feature
+this is my new commit on branch_B
