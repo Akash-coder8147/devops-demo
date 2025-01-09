@@ -1,5 +1,9 @@
-<<<<<<< HEAD
-This is a different change in the main branch.
-=======
-This is a different change in branch_B
->>>>>>> branch_B
+this is my first change
+
+
+
+
+
+
+
+this change is for revert practice
