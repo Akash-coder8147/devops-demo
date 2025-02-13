@@ -1,1 +1,3 @@
-create myutility.groovy
+def call(string name = 'Akash'){
+  echo "hello, ${name}."
+}
